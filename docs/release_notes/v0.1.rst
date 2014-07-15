@@ -1,4 +1,0 @@
-ambition-docs-guide v0.1
-========================
-
-This is the initial release of ambition-docs-guide.

@@ -8,15 +8,15 @@ See the `Sphinx autodoc`_ page for full documentation.
 
 Functions
 ---------
-To document the function ``mymodule.pow``::
+To document the function ``mymodule.power``::
 
-    .. autofunction:: mymodule.pow
+    .. autofunction:: mymodule.power
 
 Classes
 -------
 To automatically document classes::
 
-    .. autoclass:: mymodule.MyClass
+    .. autoclass:: my_module.MyClass
         :members:
         :undoc-members:
 
