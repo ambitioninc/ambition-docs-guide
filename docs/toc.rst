@@ -8,4 +8,4 @@ Table of Contents
    ref/autodoc
    ref/docstrings
    contributing
-   release_notes/index
+   release_notes
