@@ -23,7 +23,7 @@ To automatically document classes::
 * The ``:members:`` option will automatically generate all documented methods
 * The ``:undoc-members:`` option will document all undocumented methods
 * The ``:private-members:`` option will document private options (methods that
-    start with one or two underscores. Ex: ``_private``)
+        start with one or two underscores. Ex: ``_private``)
 
 Modules
 -------
