@@ -5,8 +5,8 @@ Table of Contents
    :maxdepth: 2
 
    index
-   ref/autodoc
    ref/docstrings
+   ref/autodoc
    ref/intersphinx
    contributing
    release_notes
