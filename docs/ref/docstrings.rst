@@ -6,7 +6,7 @@ Docstrings
 
 Functions and Methods
 ---------------------
-For privatae methods and functions, please add just a sentence or two stating
+For private methods and functions, please add just a sentence or two stating
 what it does. If the functon or method has more than two parameters, you should 
 probably document it like you would a public method, but use your good
 judgement.
